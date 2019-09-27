@@ -1,40 +1,38 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018/W32TeX) (preloaded format=pdflatex 2019.6.18)  27 SEP 2019 08:10
+This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019/W32TeX) (preloaded format=xelatex 2019.9.20)  27 SEP 2019 17:44
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**c:/GIT/MY_WORK/cosmic_rays_emd_Co_WC/article/agujournaltemplate.tex
-(c:/GIT/MY_WORK/cosmic_rays_emd_Co_WC/article/agujournaltemplate.tex
-LaTeX2e <2018-04-01> patch level 2
-Babel <3.18> and hyphenation patterns for 84 language(s) loaded.
-(c:/GIT/MY_WORK/cosmic_rays_emd_Co_WC/article/agujournal2019.cls
+**agujournaltemplate
+(./agujournaltemplate.tex
+LaTeX2e <2018-12-01>
+(./agujournal2019.cls
 Document Class: agujournal2019 01/14/2019
-(c:/texlive/2018/texmf-dist/tex/latex/graphics/graphicx.sty
+(c:/texlive/2019/texmf-dist/tex/latex/graphics/graphicx.sty
 Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
- (c:/texlive/2018/texmf-dist/tex/latex/graphics/keyval.sty
+ (c:/texlive/2019/texmf-dist/tex/latex/graphics/keyval.sty
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
 \KV@toks@=\toks14
-) (c:/texlive/2018/texmf-dist/tex/latex/graphics/graphics.sty
+) (c:/texlive/2019/texmf-dist/tex/latex/graphics/graphics.sty
 Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
- (c:/texlive/2018/texmf-dist/tex/latex/graphics/trig.sty
+ (c:/texlive/2019/texmf-dist/tex/latex/graphics/trig.sty
 Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
-) (c:/texlive/2018/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+) (c:/texlive/2019/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
-Package graphics Info: Driver file: pdftex.def on input line 99.
- (c:/texlive/2018/texmf-dist/tex/latex/graphics-def/pdftex.def
-File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+Package graphics Info: Driver file: xetex.def on input line 99.
+ (c:/texlive/2019/texmf-dist/tex/latex/graphics-def/xetex.def
+File: xetex.def 2017/06/24 v5.0h Graphics/color driver for xetex
 ))
 \Gin@req@height=\dimen102
 \Gin@req@width=\dimen103
-) (c:/texlive/2018/texmf-dist/tex/latex/xcolor/xcolor.sty
+) (c:/texlive/2019/texmf-dist/tex/latex/xcolor/xcolor.sty
 Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
- (c:/texlive/2018/texmf-dist/tex/latex/graphics-cfg/color.cfg
+ (c:/texlive/2019/texmf-dist/tex/latex/graphics-cfg/color.cfg
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
-Package xcolor Info: Driver file: pdftex.def on input line 225.
+Package xcolor Info: Driver file: xetex.def on input line 225.
 Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
-Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
 Package xcolor Info: Model `RGB' extended on input line 1364.
 Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
 Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
@@ -42,11 +40,12 @@ Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
 Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
 Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
 Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
-) (c:/texlive/2018/texmf-dist/tex/latex/url/url.sty
+) (c:/texlive/2019/texmf-dist/tex/latex/url/url.sty
 \Urlmuskip=\muskip10
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
-) (c:/texlive/2018/texmf-dist/tex/latex/lineno/lineno.sty
+) (c:/texlive/2019/texmf-dist/tex/latex/lineno/lineno.sty
 Package: lineno 2005/11/02 line numbers on paragraphs v4.41
+Invalid UTF-8 byte or sequence at line 296 replaced by U+FFFD.
 \linenopenalty=\count80
 \output=\toks15
 \linenoprevgraf=\count81
@@ -60,13 +59,13 @@ Package: lineno 2005/11/02 line numbers on paragraphs v4.41
 \quotelinenumbersep=\dimen106
 \bframerule=\dimen107
 \bframesep=\dimen108
-\bframebox=\box26
+\bframebox=\box27
 LaTeX Info: Redefining \\ on input line 3056.
-) (c:/texlive/2018/texmf-dist/tex/latex/tools/indentfirst.sty
+) (c:/texlive/2019/texmf-dist/tex/latex/tools/indentfirst.sty
 Package: indentfirst 1995/11/23 v1.03 Indent first paragraph (DPC)
-) (c:/texlive/2018/texmf-dist/tex/latex/ms/ragged2e.sty
-Package: ragged2e 2009/05/21 v2.1 ragged2e Package (MS)
- (c:/texlive/2018/texmf-dist/tex/latex/ms/everysel.sty
+) (c:/texlive/2019/texmf-dist/tex/latex/ragged2e/ragged2e.sty
+Package: ragged2e 2019/07/28 v2.2 ragged2e Package (MS)
+ (c:/texlive/2019/texmf-dist/tex/latex/ms/everysel.sty
 Package: everysel 2011/10/28 v1.2 EverySelectfont Package (MS)
 )
 \CenteringLeftskip=\skip41
@@ -83,15 +82,15 @@ Package: everysel 2011/10/28 v1.2 EverySelectfont Package (MS)
 \RaggedLeftParindent=\skip52
 \RaggedRightParindent=\skip53
 \JustifyingParindent=\skip54
-) (c:/texlive/2018/texmf-dist/tex/latex/graphics/rotating.sty
+) (c:/texlive/2019/texmf-dist/tex/latex/graphics/rotating.sty
 Package: rotating 2016/08/11 v2.16d rotated objects in LaTeX
- (c:/texlive/2018/texmf-dist/tex/latex/base/ifthen.sty
+ (c:/texlive/2019/texmf-dist/tex/latex/base/ifthen.sty
 Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
 )
 \c@r@tfl@t=\count87
 \rotFPtop=\skip55
 \rotFPbot=\skip56
-\rot@float@box=\box27
+\rot@float@box=\box28
 \rot@mess@toks=\toks16
 )
 \draftskip=\count88
@@ -106,7 +105,7 @@ Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
 \belowcaptionskip=\skip58
 \c@appendnum=\count96
 \bibindent=\dimen109
- (c:/texlive/2018/texmf-dist/tex/latex/apacite/apacite.sty
+ (c:/texlive/2019/texmf-dist/tex/latex/apacite/apacite.sty
 Package: apacite 2013/07/21 v6.03 APA citation
 \c@BibCnt=\count97
 \bibleftmargin=\skip59
@@ -114,9 +113,9 @@ Package: apacite 2013/07/21 v6.03 APA citation
 \bibparsep=\skip61
 \bibitemsep=\skip62
 \biblabelsep=\skip63
-)) (c:/GIT/MY_WORK/cosmic_rays_emd_Co_WC/article/trackchanges.sty
+)) (./trackchanges.sty
 Package: trackchanges 2009/04/22 v0.7.0 TrackChanges file 
- (c:/texlive/2018/texmf-dist/tex/latex/tools/calc.sty
+ (c:/texlive/2019/texmf-dist/tex/latex/tools/calc.sty
 Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
 \calc@Acount=\count98
 \calc@Bcount=\count99
@@ -128,7 +127,7 @@ LaTeX Info: Redefining \setlength on input line 80.
 LaTeX Info: Redefining \addtolength on input line 81.
 \calc@Ccount=\count100
 \calc@Cskip=\skip66
-) (c:/texlive/2018/texmf-dist/tex/latex/soul/soul.sty
+) (c:/texlive/2019/texmf-dist/tex/latex/soul/soul.sty
 Package: soul 2003/11/17 v2.4 letterspacing/underlining (mf)
 \SOUL@word=\toks17
 \SOUL@lasttoken=\toks18
@@ -139,27 +138,22 @@ Package: soul 2003/11/17 v2.4 letterspacing/underlining (mf)
 \SOUL@ttwidth=\dimen112
 \SOUL@uldp=\dimen113
 \SOUL@ulht=\dimen114
-) (c:/texlive/2018/texmf-dist/tex/latex/morefloats/morefloats.sty
+) (c:/texlive/2019/texmf-dist/tex/latex/morefloats/morefloats.sty
 Package: morefloats 2015/07/22 v1.0h Raise limit of unprocessed floats (HMM)
- (c:/texlive/2018/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+ (c:/texlive/2019/texmf-dist/tex/latex/oberdiek/kvoptions.sty
 Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
- (c:/texlive/2018/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+ (c:/texlive/2019/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
 Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
-) (c:/texlive/2018/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+) (c:/texlive/2019/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
 Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
- (c:/texlive/2018/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+ (c:/texlive/2019/texmf-dist/tex/generic/oberdiek/infwarerr.sty
 Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
-) (c:/texlive/2018/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+) (c:/texlive/2019/texmf-dist/tex/generic/oberdiek/etexcmds.sty
 Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
- (c:/texlive/2018/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+ (c:/texlive/2019/texmf-dist/tex/generic/oberdiek/ifluatex.sty
 Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
 Package ifluatex Info: LuaTeX not detected.
-)
-Package etexcmds Info: Could not find \expanded.
-(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
-(etexcmds)             that some package has redefined \expanded.
-(etexcmds)             In the latter case, load this package earlier.
-)))
+))))
 Package morefloats Info: Maximum number of possible floats asked for: 36
 (morefloats)             (i.e. 18 more floats).
 (morefloats)             LaTeX might run out of memory before this
@@ -170,696 +164,721 @@ Package morefloats Info: Maximum number of possible floats asked for: 36
 \c@storefootnote=\count103
 \c@numeditors=\count104
 \c@maxeditors=\count105
-) (c:/GIT/MY_WORK/cosmic_rays_emd_Co_WC/article/agujournaltemplate.aux)
+) (c:/texlive/2019/texmf-dist/tex/latex/subfigure/subfigure.sty
+Package: subfigure 2002/03/15 v2.1.5 subfigure package
+\subfigtopskip=\skip68
+\subfigcapskip=\skip69
+\subfigcaptopadj=\dimen115
+\subfigbottomskip=\skip70
+\subfigcapmargin=\dimen116
+\subfiglabelskip=\skip71
+\c@subfigure=\count106
+\c@lofdepth=\count107
+\c@subtable=\count108
+\c@lotdepth=\count109
+
+****************************************
+* Local config file subfigure.cfg used *
+****************************************
+(c:/texlive/2019/texmf-dist/tex/latex/subfigure/subfigure.cfg)
+\subfig@top=\skip72
+\subfig@bottom=\skip73
+) (./agujournaltemplate.aux)
 \openout1 = `agujournaltemplate.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 67.
-LaTeX Font Info:    ... okay on input line 67.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 67.
-LaTeX Font Info:    ... okay on input line 67.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 67.
-LaTeX Font Info:    ... okay on input line 67.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 67.
-LaTeX Font Info:    ... okay on input line 67.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 67.
-LaTeX Font Info:    ... okay on input line 67.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 67.
-LaTeX Font Info:    ... okay on input line 67.
- (c:/texlive/2018/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
-[Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count106
-\scratchdimen=\dimen115
-\scratchbox=\box28
-\nofMPsegments=\count107
-\nofMParguments=\count108
-\everyMPshowfont=\toks22
-\MPscratchCnt=\count109
-\MPscratchDim=\dimen116
-\MPnumerator=\count110
-\makeMPintoPDFobject=\count111
-\everyMPtoPDFconversion=\toks23
-) (c:/texlive/2018/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
-Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
- (c:/texlive/2018/texmf-dist/tex/latex/oberdiek/grfext.sty
-Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
- (c:/texlive/2018/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
-Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
-)) (c:/texlive/2018/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
-Package: pdftexcmds 2018/01/30 v0.27 Utility functions of pdfTeX for LuaTeX (HO)
- (c:/texlive/2018/texmf-dist/tex/generic/oberdiek/ifpdf.sty
-Package: ifpdf 2017/03/15 v3.2 Provides the ifpdf switch
-)
-Package pdftexcmds Info: LuaTeX not detected.
-Package pdftexcmds Info: \pdf@primitive is available.
-Package pdftexcmds Info: \pdf@ifprimitive is available.
-Package pdftexcmds Info: \pdfdraftmode found.
-)
-Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 438.
-Package grfext Info: Graphics extension search list:
-(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps]
-(grfext)             \AppendGraphicsExtensions on input line 456.
- (c:/texlive/2018/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
-File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
-)) ABD: EverySelectfont initializing macros
-LaTeX Info: Redefining \selectfont on input line 67.
-\c@maskedRefs=\count112
- (c:/texlive/2018/texmf-dist/tex/latex/apacite/english.apc
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 68.
+LaTeX Font Info:    ... okay on input line 68.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 68.
+LaTeX Font Info:    ... okay on input line 68.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 68.
+LaTeX Font Info:    ... okay on input line 68.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 68.
+LaTeX Font Info:    ... okay on input line 68.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 68.
+LaTeX Font Info:    ... okay on input line 68.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 68.
+LaTeX Font Info:    ... okay on input line 68.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 68.
+LaTeX Font Info:    ... okay on input line 68.
+ ABD: EverySelectfont initializing macros
+LaTeX Info: Redefining \selectfont on input line 68.
+\c@maskedRefs=\count110
+ (c:/texlive/2019/texmf-dist/tex/latex/apacite/english.apc
 File: english.apc 2013/07/21 v6.03 apacite language file
 LaTeX Info: Redefining \BPBI on input line 129.
 LaTeX Info: Redefining \BHBI on input line 130.
 )
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 102.
+(Font)              <7> on input line 103.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 102.
+(Font)              <5> on input line 103.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 110.
+(Font)              <8> on input line 111.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 110.
- [1{c:/texlive/2018/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-
-LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <10.5> not available
-(Font)              size <10.95> substituted on input line 200.
-
-
-LaTeX Font Warning: Font shape `OT1/cmr/bx/n' in size <10.5> not available
-(Font)              size <10.95> substituted on input line 200.
-
-
-Overfull \hbox (7.3628pt too wide) in paragraph at lines 201--202
-[]\OT1/cmr/m/n/10 Geomagnetic storms are ex-treme space weather events that are gen-er-ally thought 
+(Font)              <6> on input line 111.
+ [1]
+Overfull \hbox (15.57504pt too wide) in paragraph at lines 167--169
+\TU/lmr/m/n/10 Influence of interplanetary perturbations on the CR intensity can be an indicator to pre- 
  []
 
 
-Overfull \hbox (11.7379pt too wide) in paragraph at lines 201--202
-\OT1/cmr/m/n/10 to be caused by the in-ter-ac-tion be-tween the south-ward com-po-nent of the in-ter-plan-e-tary 
+Overfull \hbox (1.41505pt too wide) in paragraph at lines 167--169
+\TU/lmr/m/n/10 dicting geomagnetic storm onsets. Case studies illustrating the complexity of the cos- 
  []
 
 
-Overfull \hbox (13.66852pt too wide) in paragraph at lines 201--202
-\OT1/cmr/m/n/10 mag-netic field in the so-lar wind and the earth's magnetosphere[]Liu & Wan, 2014).Great 
+Overfull \hbox (20.95503pt too wide) in paragraph at lines 167--169
+\TU/lmr/m/n/10 mic ray effects and related geomagnetic activity precursors are discussed. It is shown that 
  []
 
 
-Overfull \hbox (13.34915pt too wide) in paragraph at lines 201--202
-\OT1/cmr/m/n/10 ge-o-mag-netic storms(Kp$\OMS/cmsy/m/n/10 ^^U$\OT1/cmr/m/n/10 7) could af-fect satel-lites, air-crafts, VLF sig-nal prop-a-ga-tion and 
+Overfull \hbox (1.67505pt too wide) in paragraph at lines 167--169
+\TU/lmr/m/n/10 some indices for cosmic ray activity are good tools for testing the reliability of cosmic 
  []
 
 
-Overfull \hbox (16.93248pt too wide) in paragraph at lines 201--202
-\OT1/cmr/m/n/10 elec-tric po-ten-tial of power dis-tri-bu-tion network[]Dorman, 2005; Star-o-dubt-sev et al.[], 2019; 
+Overfull \hbox (39.55504pt too wide) in paragraph at lines 167--169
+\TU/lmr/m/n/10 ray characteristics for Space Weather forecasts. The use of cosmic ray data for Space Weather 
  []
 
 
-Overfull \hbox (57.32138pt too wide) in paragraph at lines 201--202
-\OT1/cmr/m/n/10 Liu & Wan, 2014). Mean-while, great ge-o-mag-netic storms can also af-fect the ionosphere[]Kravtsova 
+Overfull \hbox (6.50505pt too wide) in paragraph at lines 167--169
+\TU/lmr/m/n/10 purposes is still in its infant stage, but suggestions for both case and statistical studies 
  []
 
 
-Overfull \hbox (11.07143pt too wide) in paragraph at lines 201--202
-\OT1/cmr/m/n/10 & Sdob-nov, 2016; Man-drikova et al.[], 2018) , magnetosphere[]Manninen et al.[], 2008) and 
+LaTeX Warning: Citation `Liu2014A' undefined on input line 203.
+
+
+LaTeX Warning: Citation `angeo-23-2997-2005' undefined on input line 203.
+
+
+LaTeX Warning: Citation `Starodubtsev2019analyzing' undefined on input line 203.
+
+
+LaTeX Warning: Citation `Kravtsova2016Cosmic' undefined on input line 203.
+
+
+LaTeX Warning: Citation `MANDRIKOVA2018116' undefined on input line 203.
+
+
+LaTeX Warning: Citation `manninen2008' undefined on input line 203.
+
+
+Overfull \hbox (7.30505pt too wide) in paragraph at lines 203--204
+[]\TU/lmr/m/n/10 Geomagnetic storms are extreme space weather events that are generally thought 
  []
 
 
-Overfull \hbox (6.93227pt too wide) in paragraph at lines 201--202
-\OT1/cmr/m/n/10 even hurt pas-sen-gers on air-planes. Hence, the pre-dic-tion be-fore the sud-den com-mence- 
+Overfull \hbox (11.73503pt too wide) in paragraph at lines 203--204
+\TU/lmr/m/n/10 to be caused by the interaction between the southward component of the interplanetary 
  []
 
 
-Overfull \hbox (13.82123pt too wide) in paragraph at lines 201--202
-\OT1/cmr/m/n/10 ment of the great ge-o-mag-netic storms is very im-por-tant to pre-vent these neg-a-tive ef-fect.  
+Overfull \hbox (11.29503pt too wide) in paragraph at lines 203--204
+\TU/lmr/m/n/10 magnetic field in the solar wind and the earth’s magnetosphere[]?, ?).Great geomagnetic 
  []
 
 
-Overfull \hbox (12.12674pt too wide) in paragraph at lines 203--204
-[]\OT1/cmr/m/n/10 Cosmic rays ob-served on Earth's sur-face were mod-u-lated by Earth's mag-netic, the 
+Overfull \hbox (8.09283pt too wide) in paragraph at lines 203--204
+\TU/lmr/m/n/10 storms(Kp$\OMS/cmsy/m/n/10 ^^U$\TU/lmr/m/n/10 7) could affect satellites, aircrafts, VLF signal propagation and electric po- 
  []
 
 
-Overfull \hbox (46.26588pt too wide) in paragraph at lines 203--204
-\OT1/cmr/m/n/10 in-ho-mo-ge-neous mag-netic field of the sun and the so-lar wind[]Mandrikova et al.[], 2018; Kravtsova 
+Overfull \hbox (4.58504pt too wide) in paragraph at lines 203--204
+\TU/lmr/m/n/10 tential of power distribution network[]?, ?, ?, ?). Meanwhile, great geomagnetic storms 
  []
 
 
-Overfull \hbox (6.12679pt too wide) in paragraph at lines 203--204
-\OT1/cmr/m/n/10 & Sdob-nov, 2016). Due to the in-flu-ence of these fac-tors, the fea-tures of the cos-mic ray 
+Overfull \hbox (2.74504pt too wide) in paragraph at lines 203--204
+\TU/lmr/m/n/10 can also affect the ionosphere[]?, ?, ?) , magnetosphere[]?, ?) and even hurt passengers 
  []
 
 
-Overfull \hbox (31.96036pt too wide) in paragraph at lines 203--204
-\OT1/cmr/m/n/10 flux and anisotropy con-tain in-for-ma-tion about the dis-tur-bance of in-ter-plan-e-tary space[]Belov 
+Overfull \hbox (1.98503pt too wide) in paragraph at lines 203--204
+\TU/lmr/m/n/10 on airplanes. Hence, the prediction before the sudden commencement of the great ge- 
  []
 
 
-Overfull \hbox (5.29352pt too wide) in paragraph at lines 203--204
-\OT1/cmr/m/n/10 et al.[], 2003; Kichi-gin et al.[], 2017), which hid-den in the re-cur-rent and spo-radic (mainly 
+LaTeX Warning: Citation `Belov2003Cosmic' undefined on input line 205.
+
+
+LaTeX Warning: Citation `Kichigin2017' undefined on input line 205.
+
+
+LaTeX Warning: Citation `Zhang2007Solar' undefined on input line 205.
+
+
+LaTeX Warning: Citation `Shi2014' undefined on input line 205.
+
+
+Overfull \hbox (12.10504pt too wide) in paragraph at lines 205--206
+[]\TU/lmr/m/n/10 Cosmic rays observed on Earth’s surface were modulated by Earth’s magnetic, the 
  []
 
 
-Overfull \hbox (1.37682pt too wide) in paragraph at lines 203--204
-\OT1/cmr/m/n/10 caused by coro-nal mass ejec-tions(CMEs)) vari-a-tion of cos-mic ray. Through sta-tis-ti-cal 
+Overfull \hbox (3.79503pt too wide) in paragraph at lines 205--206
+\TU/lmr/m/n/10 inhomogeneous magnetic field of the sun and the solar wind[]?, ?, ?). Due to the influ- 
  []
 
 
-Overfull \hbox (24.36302pt too wide) in paragraph at lines 203--204
-\OT1/cmr/m/n/10 anal-y-sis, []Zhang et al.[] (2007) noted that most of Ma-jor Ge-o-mag-netic Storms (60%) , which 
+Overfull \hbox (1.08504pt too wide) in paragraph at lines 205--206
+\TU/lmr/m/n/10 ence of these factors, the features of the cosmic ray flux and anisotropy contain infor- 
  []
 
 
-Overfull \hbox (7.21007pt too wide) in paragraph at lines 203--204
-\OT1/cmr/m/n/10 oc-cured be-tween 1996 and 2005, were as-so-ci-ated with a sin-gle CME at the sun, and 27 
+Overfull \hbox (2.31506pt too wide) in paragraph at lines 205--206
+\TU/lmr/m/n/10 mation about the disturbance of interplanetary space[]?, ?, ?), which hidden in the re- 
  []
 
 
-Overfull \hbox (12.33511pt too wide) in paragraph at lines 203--204
-\OT1/cmr/m/n/10 per-cent of Ma-jor Ge-o-mag-netic Storms were as-so-ci-ated mul-ti-ple CMEs. []Shi et al.[] (2014) 
+Overfull \hbox (13.00504pt too wide) in paragraph at lines 205--206
+\TU/lmr/m/n/10 current and sporadic (mainly caused by coronal mass ejections(CMEs)) variation of cos- 
  []
 
 
-Overfull \hbox (3.21019pt too wide) in paragraph at lines 203--204
-\OT1/cmr/m/n/10 in-ves-ti-gated all mod-er-ate and strong ge-o-mag-netic storms be-tween 2007 and 2012, and 
+Overfull \hbox (24.79504pt too wide) in paragraph at lines 205--206
+\TU/lmr/m/n/10 mic ray. Through statistical analysis, []? (?) noted that most of Major Geomagnetic Storms 
  []
 
 
-Overfull \hbox (26.57132pt too wide) in paragraph at lines 203--204
-\OT1/cmr/m/n/10 ob-tained sim-i-lar re-sult. There-fore, ex-tract-ing the dis-tur-bance in-for-ma-tion caused by CMEs 
+Overfull \hbox (17.38504pt too wide) in paragraph at lines 205--206
+\TU/lmr/m/n/10 (60%) , which occured between 1996 and 2005, were associated with a single CME at the 
  []
 
 
-Overfull \hbox (15.34906pt too wide) in paragraph at lines 203--204
-\OT1/cmr/m/n/10 from cos-mic ray in-ten-sity ob-served on the Earth ground could pre-dict great ge-o-mag-netic 
+Overfull \hbox (17.08504pt too wide) in paragraph at lines 205--206
+\TU/lmr/m/n/10 sun, and 27 percent of Major Geomagnetic Storms were associated multiple CMEs. []? (?) 
  []
 
 
-Overfull \hbox (18.96011pt too wide) in paragraph at lines 205--206
-[]\OT1/cmr/m/n/10 Many au-thers have stud-ied to pre-dicted great ge-o-mag-netic storms by an-a-lyz-ing cos- 
+Overfull \hbox (3.18503pt too wide) in paragraph at lines 205--206
+\TU/lmr/m/n/10 investigated all moderate and strong geomagnetic storms between 2007 and 2012, and 
  []
 
 
-Overfull \hbox (11.87698pt too wide) in paragraph at lines 205--206
-\OT1/cmr/m/n/10 mic ray data []Dorman, 1999; Mu-nakata et al.[], 2000; Kudela et al.[], 2001; Dor-man, 2005; 
+Overfull \hbox (26.59505pt too wide) in paragraph at lines 205--206
+\TU/lmr/m/n/10 obtained similar result. Therefore, extracting the disturbance information caused by CMEs 
  []
 
 
-Overfull \hbox (2.48795pt too wide) in paragraph at lines 205--206
-\OT1/cmr/m/n/10 Xue, 2007; Zhu et al.[], 2015).[]Dorman (1999) pre-sented that the great mag-netic storms 
+Overfull \hbox (15.34505pt too wide) in paragraph at lines 205--206
+\TU/lmr/m/n/10 from cosmic ray intensity observed on the Earth ground could predict great geomagnetic 
  []
 
 
-Overfull \hbox (9.54347pt too wide) in paragraph at lines 205--206
-\OT1/cmr/m/n/10 ac-com-pa-nied by cos-mic ray Forbush-effects could be pre-dicted by ana-ly-is-ing cos-mic ray 
+LaTeX Warning: Citation `Dorman1999Cosmic' undefined on input line 207.
+
+
+LaTeX Warning: Citation `Munakata2000Precursors' undefined on input line 207.
+
+
+LaTeX Warning: Citation `Kudela2001On' undefined on input line 207.
+
+
+LaTeX Warning: Citation `Xue2007Preliminary' undefined on input line 207.
+
+
+LaTeX Warning: Citation `zhu2015' undefined on input line 207.
+
+
+Overfull \hbox (18.93504pt too wide) in paragraph at lines 207--208
+[]\TU/lmr/m/n/10 Many authers have studied to predicted great geomagnetic storms by analyzing cos- 
  []
 
 
-Overfull \hbox (4.68246pt too wide) in paragraph at lines 205--206
-\OT1/cmr/m/n/10 data. Sub-se-quent, []Munakata et al.[] (2000)firstly sys-tem-at-i-cally in-ves-ti-gated cos-mic ray 
+Overfull \hbox (6.71506pt too wide) in paragraph at lines 207--208
+\TU/lmr/m/n/10 mic ray data []?, ?, ?, ?, ?, ?, ?).[]? (?) presented that the great magnetic storms accom- 
  []
 
 
-Overfull \hbox (10.32127pt too wide) in paragraph at lines 205--206
-\OT1/cmr/m/n/10 pre-cur-sors of ge-o-mag-netic storms. They statis-ticed and an-a-lyzed 14 ma-jor ge-o-mag-netic 
+Overfull \hbox (7.86504pt too wide) in paragraph at lines 207--208
+\TU/lmr/m/n/10 panied by cosmic ray Forbush-effects could be predicted by analyising cosmic ray data. 
  []
 
 
-Overfull \hbox (13.87686pt too wide) in paragraph at lines 205--206
-\OT1/cmr/m/n/10 storm and 25 large ge-o-mag-netic storms ob-served from 1992 to 1998, and noted that cos- 
+Overfull \hbox (15.67505pt too wide) in paragraph at lines 207--208
+\TU/lmr/m/n/10 Subsequent, []? (?)firstly systematically investigated cosmic ray precursors of geomagnetic 
  []
 
 
-Overfull \hbox (30.96013pt too wide) in paragraph at lines 205--206
-\OT1/cmr/m/n/10 mic ray pre-cur-sors will ap-pears 6   9 hours ahead to the large ge-o-mag-netic storms. Thought 
+Overfull \hbox (18.52504pt too wide) in paragraph at lines 207--208
+\TU/lmr/m/n/10 storms. They statisticed and analyzed 14 major geomagnetic storm and 25 large geomag- 
  []
 
 
-Overfull \hbox (26.68245pt too wide) in paragraph at lines 205--206
-\OT1/cmr/m/n/10 analysing on-line one-hour cos-mic ray in-ten-sity, []Dorman (2005) sug-gested that the Forbush- 
+Overfull \hbox (8.95503pt too wide) in paragraph at lines 207--208
+\TU/lmr/m/n/10 netic storms observed from 1992 to 1998, and noted that cosmic ray precursors will ap- 
  []
 
 
-Overfull \hbox (8.68231pt too wide) in paragraph at lines 205--206
-\OT1/cmr/m/n/10 decrease in cos-mic ray could be used for pre-dict-ing strong ge-o-mag-netic storms 10 to 15 
+Overfull \hbox (12.71504pt too wide) in paragraph at lines 207--208
+\TU/lmr/m/n/10 pears 6   9 hours ahead to the large geomagnetic storms. Thought analysing online one- 
  []
 
 
-Overfull \hbox (19.04344pt too wide) in paragraph at lines 205--206
-\OT1/cmr/m/n/10 hours in ad-vance. In fore-cast-ing prac-tice, []Xue (2007) used the de-vi-a-tion be-tween the cos- 
+Overfull \hbox (14.92505pt too wide) in paragraph at lines 207--208
+\TU/lmr/m/n/10 hour cosmic ray intensity, []? (?) suggested that the Forbush-decrease in cosmic ray could 
  []
 
 
-Overfull \hbox (4.82123pt too wide) in paragraph at lines 205--206
-\OT1/cmr/m/n/10 mic ray flux in 8h and the av-er-age flux in this pe-riod to re-flect the cos-mic ray fluc-tu-a- 
+Overfull \hbox (15.04504pt too wide) in paragraph at lines 207--208
+\TU/lmr/m/n/10 be used for predicting strong geomagnetic storms 10 to 15 hours in advance. In forecast- 
  []
 
 
-Overfull \hbox (6.4602pt too wide) in paragraph at lines 205--206
-\OT1/cmr/m/n/10 tions, and tested this al-go-rithm with data of whole year 2001. The fi-nal in-di-cated that 
+Overfull \hbox (2.23505pt too wide) in paragraph at lines 207--208
+\TU/lmr/m/n/10 ing practice, []? (?) used the deviation between the cosmic ray flux in 8h and the aver- 
  []
 
 
-Overfull \hbox (23.26569pt too wide) in paragraph at lines 205--206
-\OT1/cmr/m/n/10 the ac-cu-racy rate of this al-go-rithm was 80% and the er-ror rate was 20%. []Zhu et al.[] (2015) 
+Overfull \hbox (3.29504pt too wide) in paragraph at lines 207--208
+\TU/lmr/m/n/10 age flux in this period to reflect the cosmic ray fluctuations, and tested this algorithm 
  []
 
 
-Overfull \hbox (13.73795pt too wide) in paragraph at lines 205--206
-\OT1/cmr/m/n/10 em-ployed mor-let wavelet to ex-tract the ab-nor-mal fluc-tu-a-tions of cos-mic ray be-fore great 
+Overfull \hbox (20.85501pt too wide) in paragraph at lines 207--208
+\TU/lmr/m/n/10 with data of whole year 2001. The final indicated that the accuracy rate of this algorithm 
  []
 
 
-Overfull \hbox (5.57126pt too wide) in paragraph at lines 205--206
-\OT1/cmr/m/n/10 ge-o-mag-netic storms, and ad-vanced the fore-cast of great ge-o-mag-netic storms caused by 
+Overfull \hbox (8.93506pt too wide) in paragraph at lines 207--208
+\TU/lmr/m/n/10 was 80% and the error rate was 20%. []? (?) employed morlet wavelet to extract the ab- 
  []
 
 
-Overfull \hbox (15.15459pt too wide) in paragraph at lines 207--208
-[]\OT1/cmr/m/n/10 To ex-tract-ing the spo-radic vari-a-tion from cos-mic ray flux, we uesd Em-pri-ical Mode 
+Overfull \hbox (0.74504pt too wide) in paragraph at lines 207--208
+\TU/lmr/m/n/10 normal fluctuations of cosmic ray before great geomagnetic storms, and advanced the 
  []
 
 
-Overfull \hbox (8.71014pt too wide) in paragraph at lines 207--208
-\OT1/cmr/m/n/10 De-com-poses (EMD) to an-a-lyze cos-mic ray in-ten-sity of oulu sta-tion. EMD is a key part 
+LaTeX Warning: Citation `Huang1998' undefined on input line 209.
+
+
+LaTeX Warning: Citation `Barnhart2011' undefined on input line 209.
+
+
+LaTeX Warning: Citation `Kolotkov2016Empirical' undefined on input line 209.
+
+
+LaTeX Warning: Citation `Coughlin200411' undefined on input line 209.
+
+
+LaTeX Warning: Citation `refId0' undefined on input line 209.
+
+
+LaTeX Warning: Citation `Cho_2016' undefined on input line 209.
+
+
+LaTeX Warning: Citation `Stangalini2014' undefined on input line 209.
+
+
+LaTeX Warning: Citation `Xiang_2016' undefined on input line 209.
+
+
+Overfull \hbox (15.15506pt too wide) in paragraph at lines 209--210
+[]\TU/lmr/m/n/10 To extracting the sporadic variation from cosmic ray flux, we uesd Empriical Mode 
  []
 
 
-Overfull \hbox (13.43248pt too wide) in paragraph at lines 207--208
-\OT1/cmr/m/n/10 of Hilbert-Huang transform[]Huang et al.[], 1998), which could de-com-pose the non-sta-tion- 
+Overfull \hbox (8.68501pt too wide) in paragraph at lines 209--210
+\TU/lmr/m/n/10 Decomposes (EMD) to analyze cosmic ray intensity of oulu station. EMD is a key part 
  []
 
 
-Overfull \hbox (23.23807pt too wide) in paragraph at lines 207--208
-\OT1/cmr/m/n/10 ary non-lin-ear sig-nal into a fi-nite set of in-trin-sic mod func-tion (IMF) and a trend[]Barnhart 
+Overfull \hbox (3.52504pt too wide) in paragraph at lines 209--210
+\TU/lmr/m/n/10 of Hilbert-Huang transform[]?, ?), which could decompose the nonstationary nonlinear 
  []
 
 
-Overfull \hbox (4.71024pt too wide) in paragraph at lines 207--208
-\OT1/cmr/m/n/10 & Eichinger, 2011). Non-sta-tion-ary non-lin-ear sig-nal could be cearly di-vided into quasi- 
+Overfull \hbox (22.83504pt too wide) in paragraph at lines 209--210
+\TU/lmr/m/n/10 ary nonlinear signal could be cearly divided into quasi-periodic oscillatory signal and suer- 
  []
 
 
-Overfull \hbox (43.9326pt too wide) in paragraph at lines 207--208
-\OT1/cmr/m/n/10 periodic os-cil-la-tory sig-nal and suer-im-posed ran-dom back-ground sig-nal by us-ing EMD[]Kolotkov 
+Overfull \hbox (14.09502pt too wide) in paragraph at lines 209--210
+\TU/lmr/m/n/10 imposed random background signal by using EMD[]?, ?). EMD has been widely in sapce 
  []
 
 
-Overfull \hbox (6.79344pt too wide) in paragraph at lines 207--208
-\OT1/cmr/m/n/10 et al.[], 2016). EMD has been widely in sapce weather be-cause of its pow-er-full abil-ity of 
- []
-
-
-Overfull \hbox (2.68236pt too wide) in paragraph at lines 207--208
-\OT1/cmr/m/n/10 de-com-po-si-tion which is based on the lo-cal char-ac-ter-istc timescal of the data[]Coughlin 
- []
-
-
-Overfull \hbox (10.34914pt too wide) in paragraph at lines 207--208
-\OT1/cmr/m/n/10 & Tung, 2004; Barn-hart & Eichinger, 2011; K^^?apyl^^?a, M. J. et al.[], 2016; Cho et al.[], 2016; 
+Overfull \hbox (21.30505pt too wide) in paragraph at lines 209--210
+\TU/lmr/m/n/10 weather because of its powerfull ability of decomposition which is based on the local char- 
  []
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [2]
-Overfull \hbox (12.76563pt too wide) in paragraph at lines 209--210
-[]\OT1/cmr/m/n/10 In the present pa-per, we use EMD to ex-tract the ran-dom back-ground sig-nal of the 
+Overfull \hbox (12.76505pt too wide) in paragraph at lines 211--212
+[]\TU/lmr/m/n/10 In the present paper, we use EMD to extract the random background signal of the 
  []
 
 
-Overfull \hbox (6.79344pt too wide) in paragraph at lines 209--210
-\OT1/cmr/m/n/10 cos-mic ray in-ten-sity, which caused by CME. These ran-dom back-ground sig-nals con-tain 
+Overfull \hbox (6.78503pt too wide) in paragraph at lines 211--212
+\TU/lmr/m/n/10 cosmic ray intensity, which caused by CME. These random background signals contain 
  []
 
 
-Overfull \hbox (11.37688pt too wide) in paragraph at lines 209--210
-\OT1/cmr/m/n/10 the in-for-ma-tion about the dis-tur-bance of in-ter-plan-e-tary space caused by CME, and will 
+Overfull \hbox (11.41505pt too wide) in paragraph at lines 211--212
+\TU/lmr/m/n/10 the information about the disturbance of interplanetary space caused by CME, and will 
  []
 
 
-Overfull \hbox (6.79353pt too wide) in paragraph at lines 213--217
-[]\OT1/cmr/m/n/10 Cosmic ray(CR) con-tain a lot of in-for-ma-tion, about sunspots in the long run and 
+Overfull \hbox (12.49504pt too wide) in paragraph at lines 214--215
+[]\TU/lmr/m/n/10 Shocksdriven by energetic coronal mass ejections(CME’s) and other interplanetary 
  []
 
 
-Overfull \hbox (37.23799pt too wide) in paragraph at lines 213--217
-\OT1/cmr/m/n/10 di-ur-nal vari-a-tions in the short run.Shocks driven by en-er-getic coro-nal mass ejec-tions (CME's) 
+Overfull \hbox (27.20503pt too wide) in paragraph at lines 214--215
+\TU/lmr/m/n/10 (IP) transients are mainly responsible for initiating large and intense geo- magnetic storms. 
  []
 
 
-Overfull \hbox (5.15466pt too wide) in paragraph at lines 213--217
-\OT1/cmr/m/n/10 and other in-ter-plan-e-tary (IP) tran-sients are mainly re-spon-si-ble for ini-ti-at-ing large and 
+Overfull \hbox (2.71504pt too wide) in paragraph at lines 214--215
+\TU/lmr/m/n/10 Observational results indicate that ga- lactic cosmic rays (GR) coming from deep sur- 
  []
 
 
-Overfull \hbox (8.73787pt too wide) in paragraph at lines 213--217
-\OT1/cmr/m/n/10 in-tense geo- mag-netic storms. Ob-ser-va-tional re-sults in-di-cate that ga- lac-tic cos-mic rays 
+Overfull \hbox (15.23505pt too wide) in paragraph at lines 214--215
+\TU/lmr/m/n/10 face inte- ract with these abnormal solar and interplanetary condi- tions and suffer mod- 
  []
 
 
-Overfull \hbox (9.58513pt too wide) in paragraph at lines 213--217
-\OT1/cmr/m/n/10 (GR) com-ing from deep sur-face inte- ract with these ab-nor-mal so-lar and in-ter-plan-e-tary 
+Overfull \hbox (8.01503pt too wide) in paragraph at lines 216--217
+[]\TU/lmr/m/n/10 Most of the events are associated with transient decreases in cosmic ray intensity. 
  []
 
 
-Overfull \hbox (7.82123pt too wide) in paragraph at lines 213--217
-\OT1/cmr/m/n/10 condi- tions and suf-fer mod-u-la-tion ef-fects. Most of the events are as-so-ci-ated with tran- 
+Overfull \hbox (1.75505pt too wide) in paragraph at lines 216--217
+\TU/lmr/m/n/10 Intense storms are having their well defined solar origin as during solar maximum the 
  []
 
 
-Overfull \hbox (5.48773pt too wide) in paragraph at lines 213--217
-\OT1/cmr/m/n/10 sient de-creases in cos-mic ray in-ten-sity. In-tense storms are hav-ing their well de-fined so- 
+Overfull \hbox (6.09505pt too wide) in paragraph at lines 216--217
+\TU/lmr/m/n/10 occurrence rate is 55% while it is only 45% during solar minimum phase of solar cycle.  
  []
 
 
-Overfull \hbox (11.96014pt too wide) in paragraph at lines 213--217
-\OT1/cmr/m/n/10 lar ori-gin as dur-ing so-lar max-i-mum the oc-cur-rence rate is 55% while it is only 45% dur- 
+LaTeX Warning: Citation `Kudela2000' undefined on input line 221.
+
+
+Overfull \hbox (10.68506pt too wide) in paragraph at lines 221--222
+[]\TU/lmr/m/n/10 Interplanetary perturbations is initiated in the solar atmosphere and affect cosmic 
  []
 
 
-Overfull \hbox (19.40466pt too wide) in paragraph at lines 219--221
-[]\OT1/cmr/m/n/10 Traditional sig-nal pro-cess-ing meth-ods can be de-v-ided into time-domain method and 
+Overfull \hbox (18.98502pt too wide) in paragraph at lines 221--222
+\TU/lmr/m/n/10 ray(CR). In some cases their influence on the CR intensity results in data signatures that 
  []
 
 
-Overfull \hbox (7.32141pt too wide) in paragraph at lines 221--221
-[]\OT1/cmr/bx/n/10 Empirical Mod-ule De-com-p-i-si-tion and En-sem-ble Em-pir-i-cal Mod-ule 
+Overfull \hbox (14.30505pt too wide) in paragraph at lines 221--222
+\TU/lmr/m/n/10 can possibly be treated as an indicator to predicting geomagnetic storm onsets[]?, ?).But 
  []
 
 
-Overfull \hbox (25.79355pt too wide) in paragraph at lines 222--224
-[]\OT1/cmr/m/n/10 EMD is a Vi-bra-tion sig-nals car-ry-ing a lot of in-for-ma-tion about the me-chan-i-cal equip- 
+Overfull \hbox (10.64503pt too wide) in paragraph at lines 221--222
+\TU/lmr/m/n/10 in addition, CRI also contains many other signals not related to geomagnetic storm, for 
  []
 
 
-Overfull \hbox (5.488pt too wide) in paragraph at lines 222--224
-\OT1/cmr/m/n/10 ment health con-di-tion are fre-quently ap-plied to mon-i-tor the ma-chine health con-di-tion. 
+Overfull \hbox (13.11504pt too wide) in paragraph at lines 221--222
+\TU/lmr/m/n/10 instance, in the long run, CRs have inverse relationship with sunspot numbers, for short 
+ []
+
+File: img//CosmicRaysAndSunspotsMonthlySince195801.png Graphic file (type bmp)
+<img//CosmicRaysAndSunspotsMonthlySince195801.png>
+
+Overfull \hbox (2.52065pt too wide) in paragraph at lines 224--225
+[][] 
  []
 
 
-Overfull \hbox (5.98799pt too wide) in paragraph at lines 222--224
-\OT1/cmr/m/n/10 The vi-bra-tion sig-nal de-com-po-si-tion is a crit-i-cal step in ma-chine health mon-i-tor-ing and 
+LaTeX Warning: Citation `Ditommaso2012' undefined on input line 228.
+
+
+Overfull \hbox (9.15503pt too wide) in paragraph at lines 228--229
+[]\TU/lmr/m/n/10 Signal processing can simplify this problem, traditional signal processing methods 
  []
 
 
-Overfull \hbox (10.01581pt too wide) in paragraph at lines 222--224
-\OT1/cmr/m/n/10 fault di-ag-no-sis [1{3]. The meth-ods to de-com-pose vi-bra-tion sen-sor sig-nal mainly in-clude 
+Overfull \hbox (17.21503pt too wide) in paragraph at lines 228--229
+\TU/lmr/m/n/10 can be devided into time-domain methods and frequency-domain methods. Time-domain 
  []
 
 
-Overfull \hbox (23.79352pt too wide) in paragraph at lines 222--224
-\OT1/cmr/m/n/10 FFT, wavelet trans-form, and EMD [4]. Among these meth-ods, the FFT is one of the most 
+Overfull \hbox (8.52504pt too wide) in paragraph at lines 228--229
+\TU/lmr/m/n/10 methods measure max, min, mean values of a signal along time which is easy to under- 
  []
 
 
-Overfull \hbox (7.07112pt too wide) in paragraph at lines 222--224
-\OT1/cmr/m/n/10 widely used and well-established meth-ods. How-ever, there are some cru-cial re-stric-tions 
+Overfull \hbox (3.18503pt too wide) in paragraph at lines 228--229
+\TU/lmr/m/n/10 stand, but cannot reveal essence of the signal. Frequency-domain decomposes a siganl 
  []
 
 
-Overfull \hbox (23.40463pt too wide) in paragraph at lines 222--224
-\OT1/cmr/m/n/10 on the use of Fourier trans-form. On the one hand, the FFT is a typ-i-cal lin-ear and station- 
+Overfull \hbox (2.98506pt too wide) in paragraph at lines 228--229
+\TU/lmr/m/n/10 into a sum of functions according to basis function. Fast Fourier Tansform(FFT) Per- 
  []
 
 
-Overfull \hbox (26.51582pt too wide) in paragraph at lines 222--224
-\OT1/cmr/m/n/10 ary trans-form, which is not suit-able for non-sta-tion-ary sig-nal analy- sis. On the other hand, 
+Overfull \hbox (11.94504pt too wide) in paragraph at lines 228--229
+\TU/lmr/m/n/10 haps the most popular tool for signal processing whose basis function is sinusoidal func- 
  []
 
 
-Overfull \hbox (14.57138pt too wide) in paragraph at lines 222--224
-\OT1/cmr/m/n/10 it is suit-able for global sig-nal anal-y-sis in-stead of lo-cal sig-nal anal-y-sis. Un-for-tu-nately, the 
+Overfull \hbox (4.87505pt too wide) in paragraph at lines 228--229
+\TU/lmr/m/n/10 tion. But FFT can not obtain the signal variation of time. As a improvement of FFT, 
  []
 
 
-Overfull \hbox (8.26582pt too wide) in paragraph at lines 222--224
-\OT1/cmr/m/n/10 vi-bra-tion sig-nals to be an-a-lyzed are of-ten non-sta-tion-ary and non-lin-ear es-pe-cially un-der 
+Overfull \hbox (5.73506pt too wide) in paragraph at lines 228--229
+\TU/lmr/m/n/10 Short Time Fourier Transform(STFT) cotains time information, however, the width of 
  []
 
 
-Overfull \hbox (17.2936pt too wide) in paragraph at lines 222--224
-\OT1/cmr/m/n/10 time-varying op-er-a-tional con-di-tions. Hence, the FFT can-not fully ful-fill the re-quire-ments 
+Overfull \hbox (2.60503pt too wide) in paragraph at lines 228--229
+\TU/lmr/m/n/10 the moving window adopted for the analysis has to be fixed as a function of the mini- 
  []
 
 
-Overfull \hbox (2.79352pt too wide) in paragraph at lines 222--224
-\OT1/cmr/m/n/10 of health mon-i-tor-ing and fault di-ag-no-sis. Re-cently, wavelet trans-form has be-come one 
- []
-
-
-Overfull \hbox (21.2103pt too wide) in paragraph at lines 222--224
-\OT1/cmr/m/n/10 of the most pow-er-ful sig-nal pro-cess-ing tools on non-sta-tion-ary sig-nal de-com-po-si-tion [5{11]. 
- []
-
-
-Overfull \hbox (9.84901pt too wide) in paragraph at lines 222--224
-\OT1/cmr/m/n/10 De-tailed de-scrip-tions of the ex-ist-ing re-search on ap-pli-ca-tion of the wavelet trans-form in 
- []
-
-
-Overfull \hbox (4.62688pt too wide) in paragraph at lines 222--224
-\OT1/cmr/m/n/10 ma-chine con-di-tion mon-i-tor-ing and fault di-ag-nos-tics are re-viewed in Ref. [12]. In 1998, 
- []
-
-
-Overfull \hbox (1.9603pt too wide) in paragraph at lines 222--224
-\OT1/cmr/m/n/10 Huang et al. in-tro-duced the EMD method for an-a-lyz-ing data from non-sta-tion-ary and 
- []
-
-(c:/GIT/MY_WORK/cosmic_rays_emd_Co_WC/article/agujournaltemplate.bbl
-Underfull \hbox (badness 1097) in paragraph at lines 16--35
-[]\OT1/cmr/m/n/10 Barnhart, B. L., & Eichinger, W. E.  (2011, Apr 01).  Anal-y-sis of sunspot vari-abil- 
- []
-
-
-Underfull \hbox (badness 1028) in paragraph at lines 16--35
-\OT1/cmr/m/n/10 ity us-ing the hilbert--huang trans-form.  \OT1/cmr/m/it/10 So-lar Physics\OT1/cmr/m/n/10 , \OT1/cmr/m/it/10 269\OT1/cmr/m/n/10 (2), 439--449.  Re- 
- []
-
-
-Underfull \hbox (badness 2894) in paragraph at lines 16--35
-\OT1/cmr/m/n/10 trieved from $\OT1/cmtt/m/n/10 https :// doi [] .org / 10 [] .1007 / s11207 [] -010 [] -9701 [] -6$   \OT1/cmr/m/n/10 doi: $10 [] .1007 / 
+Overfull \hbox (1.05504pt too wide) in paragraph at lines 228--229
+\TU/lmr/m/n/10 mum frequency of interest, using the best compromise between resolution in both the 
  []
 
 [3]
-Underfull \hbox (badness 10000) in paragraph at lines 47--64
-[]\OT1/cmr/m/n/10 Belov, A. V., Bieber, J. W., Eroshenko, E. A., Even-song, P., Pyle, R., & Yan-kee, 
+Overfull \hbox (24.68504pt too wide) in paragraph at lines 230--231
+[]\TU/lmr/m/n/10 As a time-frequency technique, Empirical Mode Decompisition(EMD) is self-adaptive 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 80--101
-[]\OT1/cmr/m/n/10 Cho, I.-H., Cho, K.-S., Nakari-akov, V. M., Kim, S., & Ku-mar, P.  (2016, oct). 
+Overfull \hbox (23.30502pt too wide) in paragraph at lines 230--231
+\TU/lmr/m/n/10 to dealing with non-stationary and non-linear signals, but it still has ”mode mixing” prob- 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 80--101
-\OT1/cmr/m/n/10 COM-PAR-I-SON OF DAMPED OS-CIL-LA-TIONS IN SO-LAR AND STEL- 
+Overfull \hbox (8.46506pt too wide) in paragraph at lines 230--231
+\TU/lmr/m/n/10 lem. To overcome this problem, we adopt Complete Ensemble Empirical Mode Decom- 
  []
 
 
-Underfull \hbox (badness 3536) in paragraph at lines 80--101
-\OT1/cmr/m/n/10 LAR x-RAY FLARES.  \OT1/cmr/m/it/10 The As-tro-phys-i-cal Jour-nal\OT1/cmr/m/n/10 , \OT1/cmr/m/it/10 830\OT1/cmr/m/n/10 (2), 110.  Re-trieved 
+Overfull \hbox (15.55504pt too wide) in paragraph at lines 230--231
+\TU/lmr/m/n/10 position with Adaptive Noise (CEEMDAN) in our analysis, CEEMDAN shows good sta- 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 80--101
-\OT1/cmr/m/n/10 from $\OT1/cmtt/m/n/10 https :// doi [] .org / 10 [] .3847 % 2F0004 [] -637x % 2F830 % 2F2 % 2F110$   \OT1/cmr/m/n/10 doi: 
+Overfull \hbox (11.21503pt too wide) in paragraph at lines 230--231
+\TU/lmr/m/n/10 bility in our work. At last, we use the Hilbert transform on the result of CEEMDAN to 
  []
 
 
-Underfull \hbox (badness 1365) in paragraph at lines 115--128
-\OT1/cmr/m/n/10 tracted by the em-pir-i-cal mode de-com-po-si-tion method.  \OT1/cmr/m/it/10 Ad-vances in Space Re- 
+Overfull \hbox (0.33504pt too wide) in paragraph at lines 233--234
+[]\TU/lmr/m/n/10 The EMD method is a nonlinear signal transformation procedure introduced by 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 165--183
-[]\OT1/cmr/m/n/10 Dorman, L. I.  (2005).  Space weather and dan-ger-ous phe-nom-ena on the earth: 
+Overfull \hbox (5.34503pt too wide) in paragraph at lines 233--234
+\TU/lmr/m/n/10 Huang[]?, ?), this method decomposes a signal into some intrinsic mode function(IMF) 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 165--183
-\OT1/cmr/m/n/10 prin-ci-ples of great ge-o-mag-netic storms for-cast-ing by on-line cos-mic ray 
+Overfull \hbox (5.94504pt too wide) in paragraph at lines 233--234
+\TU/lmr/m/n/10 through the sfiting process, figure 4[] shows the detailed process of sifting process. Each 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 165--183
-\OT1/cmr/m/n/10 data.  \OT1/cmr/m/it/10 An-nales Geo-phys-i-cae\OT1/cmr/m/n/10 , \OT1/cmr/m/it/10 23\OT1/cmr/m/n/10 (9), 2997--3002.  Re-trieved from $\OT1/cmtt/m/n/10 https :// 
+Overfull \hbox (14.19505pt too wide) in paragraph at lines 233--234
+\TU/lmr/m/n/10 IMF can be obtained from an iterative process of finding the upper and lower envelopes. 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 195--217
-[]\OT1/cmr/m/n/10 Huang, N. E., Shen, Z., Long, S. R., Wu, M. C., Shih, H. H., Zheng, Q., ... Liu, 
+Overfull \hbox (0.68503pt too wide) in paragraph at lines 237--238
+[]\TU/lmr/m/n/10 in the whole data set, the number of extrema and the number of zero-crossings 
  []
 
 
-Underfull \hbox (badness 2334) in paragraph at lines 195--217
-\OT1/cmr/m/n/10 H. H.  (1998).  The em-pir-i-cal mode de-com-po-si-tion and the hilbert spec-trum 
+Overfull \hbox (13.95503pt too wide) in paragraph at lines 238--239
+[]\TU/lmr/m/n/10 at any point, the mean value of the envelope defined by the local maxima and the 
  []
 
 
-Underfull \hbox (badness 4120) in paragraph at lines 195--217
-\OT1/cmr/m/it/10 i-cal, Phys-i-cal and En-gi-neer-ing Sci-ences\OT1/cmr/m/n/10 , \OT1/cmr/m/it/10 454\OT1/cmr/m/n/10 (1971), 903--995.  Re-trieved from 
+Overfull \hbox (3.50508pt too wide) in paragraph at lines 244--245
+[]$\OML/cmm/m/it/10 imf[]$\TU/lmr/m/n/10 is $\OML/cmm/m/it/10 N[]$ \TU/lmr/m/n/10 intrinsic mode function, and $\OML/cmm/m/it/10 r\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 t\OT1/cmr/m/n/10 )$ \TU/lmr/m/n/10 represents residue corresponding to 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 231--246
-\OT1/cmr/m/n/10 in the mag-ne-to-sphere as de-rived from ob-ser-va-tions of cos-mic rays dur-ing the 
+Overfull \hbox (16.49501pt too wide) in paragraph at lines 244--245
+\TU/lmr/m/n/10 N intrinsic modes. But EMD has drawback : frequency mixing and un robust, is two fig- 
+ []
+
+File: img//emd1.png Graphic file (type bmp)
+<img//emd1.png>
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+File: img//emd2.png Graphic file (type bmp)
+<img//emd2.png>
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+File: img//emd_flowchart.png Graphic file (type bmp)
+<img//emd_flowchart.png>
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+Overfull \hbox (11.43503pt too wide) in paragraph at lines 266--266
+[]\TU/lmr/bx/n/10 Complete Ensemble Empirical Mode Decomposition with Adaptive 
  []
 
 
-Underfull \hbox (badness 3343) in paragraph at lines 260--274
-\OT1/cmr/m/n/10 de-com-po-si-tion anal-y-sis of ran-dom pro-cesses in the so-lar at-mo-sphere.  \OT1/cmr/m/it/10 As-tron- 
+Overfull \hbox (10.09502pt too wide) in paragraph at lines 267--268
+[]\TU/lmr/m/n/10 A recently demonstrated improved variant of the EMD method is Ensemble EMD 
  []
 
 
-Underfull \hbox (badness 5446) in paragraph at lines 288--301
-[]\OT1/cmr/m/n/10 Kravtsova, M. V., & Sdob-nov, V. E.  (2016).  Cos-mic rays dur-ing great ge-o-mag- 
+Overfull \hbox (0.63506pt too wide) in paragraph at lines 267--268
+\TU/lmr/m/n/10 (EEMD), inwhichEMD is performed on an ensemble of initial signals, each perturbed 
  []
 
 
-Underfull \hbox (badness 3128) in paragraph at lines 288--301
-\OT1/cmr/m/n/10 netic storms in cy-cle 23 of so-lar ac-tiv-ity.  \OT1/cmr/m/it/10 Ge-o-mag-netism & Aeron-omy\OT1/cmr/m/n/10 , \OT1/cmr/m/it/10 56\OT1/cmr/m/n/10 (2), 
+Overfull \hbox (12.98502pt too wide) in paragraph at lines 267--268
+\TU/lmr/m/n/10 by low-amplitude white noise (Wu and Huang 2009). The noise helps the sifting process 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 340--363
-[]\OT1/cmr/m/n/10 K^^?apyl^^?a, M. J., K^^?apyl^^?a, P. J., Olspert, N., Bran-den-burg, A., War-necke, J., Karak, B. 
+Overfull \hbox (4.71501pt too wide) in paragraph at lines 267--268
+\TU/lmr/m/n/10 to avoid mode mixing and to provide more robust and physically meaningful IMFs. In 
  []
 
 
-Underfull \hbox (badness 2653) in paragraph at lines 405--429
-[]\OT1/cmr/m/n/10 Mandrikova, O., Polo-zov, Y., Feti-sova, N., & Zalyaev, T.  (2018).  Anal-y-sis of the 
+Overfull \hbox (9.49503pt too wide) in paragraph at lines 267--268
+\TU/lmr/m/n/10 the end the average of the results is designated as the true final result, and thus the di- 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 405--429
-\OT1/cmr/m/n/10 dy-nam-ics of iono-spheric pa-ram-e-ters dur-ing pe-ri-ods of in-creased so-lar ac- 
+Overfull \hbox (7.84506pt too wide) in paragraph at lines 267--268
+\TU/lmr/m/n/10 rect effect of the noise is canceled out. Computing the EMD of a large ensemble of sig- 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 405--429
-\OT1/cmr/m/n/10 tiv-ity and mag-netic storms.  \OT1/cmr/m/it/10 Jour-nal of At-mo-spheric and Solar-Terrestrial 
+Overfull \hbox (4.56503pt too wide) in paragraph at lines 267--268
+\TU/lmr/m/n/10 nals is computationally more intensive, but this difference in computation time can be 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 405--429
-\OT1/cmr/m/it/10 Physics\OT1/cmr/m/n/10 , \OT1/cmr/m/it/10 181\OT1/cmr/m/n/10 , 116 - 126.  Re-trieved from $\OT1/cmtt/m/n/10 http :// www [] .sciencedirect [] .com / 
+Overfull \hbox (0.75505pt too wide) in paragraph at lines 267--268
+\TU/lmr/m/n/10 reduced significantly since the separate ensemble members can be computed in paral- 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 405--429
-\OT1/cmtt/m/n/10 science / article / pii / S1364682618301500$   \OT1/cmr/m/n/10 doi: $https :// doi [] .org / 10 [] .1016 / 
+Overfull \hbox (3.99504pt too wide) in paragraph at lines 269--271
+[]\TU/lmr/m/n/10 Because the added noise does not completely cancel out in the averaging process 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 441--467
-[]\OT1/cmr/m/n/10 Manninen, J., Kleimen-ova, N. G., Kozyreva, O. V., Ranta, A., Kau-ristie, K., 
+Overfull \hbox (12.32504pt too wide) in paragraph at lines 269--271
+\TU/lmr/m/n/10 for any finite ensemble size, EEMD is no longer a strictly complete decomposition. This 
  []
 
 
-Underfull \hbox (badness 7308) in paragraph at lines 441--467
-\OT1/cmr/m/n/10 M^^?akinen, S., & Ko-rnilova, T. A.  (2008).  Ground-based ob-ser-va-tions dur- 
+Overfull \hbox (26.26503pt too wide) in paragraph at lines 269--271
+\TU/lmr/m/n/10 issue has been fixed in a EEMD variant called CEEMDAN (Torres et al. 2011). In CEEM- 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 441--467
-\OT1/cmr/m/n/10 ing the pe-riod be-tween two strong novem-ber 2004 storms at-tributed to steady 
+Overfull \hbox (9.64505pt too wide) in paragraph at lines 269--271
+\TU/lmr/m/n/10 DAN, the averaging over all ensemble members is carried separately for each IMF com- 
  []
 
 
-Underfull \hbox (badness 4366) in paragraph at lines 441--467
-\OT1/cmr/m/n/10 mag-ne-to-spheric con-vec-tion.  \OT1/cmr/m/it/10 Jour-nal of Geo-phys-i-cal Re-search: Space Physics\OT1/cmr/m/n/10 , 
+Overfull \hbox (5.45503pt too wide) in paragraph at lines 269--271
+\TU/lmr/m/n/10 ponent. By changing the order of averaging over the ensemble and extracting the next 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 479--498
-[]\OT1/cmr/m/n/10 Munakata, K., Bieber, J. W., Ya-sue, S. I., Kato, C., Koyama, M., Aka-hane, S., ... 
+Overfull \hbox (15.83502pt too wide) in paragraph at lines 269--271
+\TU/lmr/m/n/10 IMF, at each point ofthe decomposition procedure the current residual together with the 
  []
 
 
-Underfull \hbox (badness 3701) in paragraph at lines 479--498
-\OT1/cmr/m/n/10 de-tec-tor net-work.  \OT1/cmr/m/it/10 Jour-nal of Geo-phys-i-cal Re-search Space Physics\OT1/cmr/m/n/10 , \OT1/cmr/m/it/10 105\OT1/cmr/m/n/10 (A12), 
+Overfull \hbox (6.25504pt too wide) in paragraph at lines 269--271
+\TU/lmr/m/n/10 already extracted IMFs sums exactly (or up to numerical precision) to the original sig- 
  []
 
 
-Underfull \vbox (badness 1264) has occurred while \output is active []
+Overfull \hbox (10.23503pt too wide) in paragraph at lines 269--271
+\TU/lmr/m/n/10 nal. This small change also seems to improve the algorithm’s efficiency in recovering an 
+ []
 
- [4]
-Underfull \hbox (badness 1701) in paragraph at lines 512--526
-[]\OT1/cmr/m/n/10 Shi, L. W., Shen, C. L., & Wang, Y. M.  (2014).  The in-ter-plan-e-tary ori-gins of ge- 
+[4]
+Overfull \hbox (10.28503pt too wide) in paragraph at lines 272--274
+[]\TU/lmr/m/n/10 The EMD has great advantages in dealing with non-stationary and non-linear sig- 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 542--558
-\OT1/cmr/m/n/10 va-tional ev-i-dence for buf-fet-ing in-duced kink waves in so-lar mag-netic el-e-ments. 
+Overfull \hbox (15.25502pt too wide) in paragraph at lines 272--274
+\TU/lmr/m/n/10 nals, but it still has “mode mixing” problem. Mode mixing refers to the presence of very 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 570--589
-[]\OT1/cmr/m/n/10 Starodubtsev, S., Bai-shev, D., Grig-o-ryev, V., Ka-ri-mov, R., Ko-zlov, V., Ko-r-sakov, 
+Overfull \hbox (13.46504pt too wide) in paragraph at lines 272--274
+\TU/lmr/m/n/10 similar oscillations in different modes or very disparate amplitude in a mode. By adding 
  []
 
 
-Underfull \hbox (badness 1490) in paragraph at lines 570--589
-\OT1/cmr/m/n/10 A., ... Moi-seev, A.  (2019).  An-a-lyz-ing so-lar, cos-mic, and geo-phys-i-cal events 
+Overfull \hbox (16.51505pt too wide) in paragraph at lines 272--274
+\TU/lmr/m/n/10 Gaussian white noise to the signal, the ensemble empirical mode decomposition (EEMD) 
  []
 
 
-Underfull \hbox (badness 2205) in paragraph at lines 570--589
-\OT1/cmr/m/n/10 in septem-ber 2017 us-ing sh-i-cra sb ras com-plex ob-ser-va-tions.  \OT1/cmr/m/it/10 Solar-Terrestrial 
+Overfull \hbox (23.50504pt too wide) in paragraph at lines 272--274
+\TU/lmr/m/n/10 algorithm largely eliminates the mode mixing in EMD algorithm[24]. However, the EEMD 
  []
 
 
-Underfull \hbox (badness 6708) in paragraph at lines 603--622
-[]\OT1/cmr/m/n/10 Xiang, N. B., & Qu, Z. N.  (2016, feb).  EN-SEM-BLE EM-PIR-I-CAL MODE DE- 
+Overfull \hbox (10.86504pt too wide) in paragraph at lines 272--274
+\TU/lmr/m/n/10 algorithm cannot completely eliminate Gaussian white noise after signal reconstruction, 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 603--622
-\OT1/cmr/m/n/10 COM-PO-SI-TION OF THE MAG-NETIC FIELD OF THE SUN AS a STAR. 
+Overfull \hbox (2.03505pt too wide) in paragraph at lines 272--274
+\TU/lmr/m/n/10 it cause reconstruction errors. To solve these problems, the complete ensemble empir- 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 603--622
-\OT1/cmr/m/it/10 The As-tro-nom-i-cal Jour-nal\OT1/cmr/m/n/10 , \OT1/cmr/m/it/10 151\OT1/cmr/m/n/10 (3), 76.  Re-trieved from $\OT1/cmtt/m/n/10 https :// doi [] .org / 
+Overfull \hbox (17.81503pt too wide) in paragraph at lines 272--274
+\TU/lmr/m/n/10 ical mode decomposition with adaptive noise (CEEMDAN) was proposed as an improved 
  []
 
 
-Underfull \hbox (badness 6188) in paragraph at lines 634--646
-[]\OT1/cmr/m/n/10 Xue, B.  (2007).  Pre-lim-i-nary at-tempt in pre-dic-tion the ge-o-mag-netic storm with 
+Overfull \hbox (7.44504pt too wide) in paragraph at lines 272--274
+\TU/lmr/m/n/10 version of EEMD[25]. It eliminate mode mixing more effectively, the reconstruction er- 
  []
 
+File: img//ceemdan1.png Graphic file (type bmp)
+<img//ceemdan1.png>
 
-Underfull \hbox (badness 10000) in paragraph at lines 658--677
-[]\OT1/cmr/m/n/10 Zhang, J., Richard-son, I., Webb, D. F., Gopal-swamy, N., Hut-tunen, E., Kasper, J., 
- []
+LaTeX Warning: `h' float specifier changed to `ht'.
 
+File: img//ceemdan2.png Graphic file (type bmp)
+<img//ceemdan2.png>
 
-Underfull \hbox (badness 10000) in paragraph at lines 658--677
-\OT1/cmr/m/n/10 storms (dst less than or equal to -100 nt) dur-ing 1996 - 2005.  \OT1/cmr/m/it/10 So-ci-ol-ogy & 
- []
+LaTeX Warning: `h' float specifier changed to `ht'.
 
+No file agujournaltemplate.bbl.
+[5] [6] [7] [8] (./agujournaltemplate.aux)
 
-Underfull \hbox (badness 10000) in paragraph at lines 692--707
-\OT1/cmr/m/n/10 anal-y-sis of cos-mic ray in pre-dic-tion of great ge-o-mag-netic storms.  \OT1/cmr/m/it/10 Chi-nese 
- []
-
-) [5] (c:/GIT/MY_WORK/cosmic_rays_emd_Co_WC/article/agujournaltemplate.aux)
-
-LaTeX Font Warning: Size substitutions with differences
-(Font)              up to 0.45pt have occurred.
+LaTeX Warning: There were undefined references.
 
  ) 
 Here is how much of TeX's memory you used:
- 3303 strings out of 492649
- 45818 string characters out of 6133384
- 127905 words of memory out of 5000000
- 7131 multiletter control sequences out of 15000+600000
- 8922 words of font info for 32 fonts, out of 8000000 for 9000
- 1147 hyphenation exceptions out of 8191
- 43i,8n,37p,1569b,318s stack positions out of 5000i,500n,10000p,200000b,80000s
-<c:/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy5.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmti9.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt9.pfb>
-Output written on c:/GIT/MY_WORK/cosmic_rays_emd_Co_WC/article/agujournaltemplate.pdf (5 pages, 180587 bytes).
-PDF statistics:
- 76 PDF objects out of 1000 (max. 8388607)
- 54 compressed objects within 1 object stream
- 0 named destinations out of 1000 (max. 500000)
- 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 3021 strings out of 492909
+ 41171 string characters out of 6136299
+ 126623 words of memory out of 5000000
+ 7017 multiletter control sequences out of 15000+600000
+ 5888 words of font info for 35 fonts, out of 8000000 for 9000
+ 1354 hyphenation exceptions out of 8191
+ 43i,8n,37p,1520b,269s stack positions out of 5000i,500n,10000p,200000b,80000s
 
+Output written on agujournaltemplate.pdf (8 pages).
